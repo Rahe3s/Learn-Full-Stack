@@ -1,2 +1,28 @@
 Python Topics
 ____________
+
+1. What is Python.
+2. How Python code works.
+3. Data Types.
+4. List :
+	- Creating and Accessing List.
+	- List Methods.
+	- List Comprehensions
+5. Tuple :
+	- Creating and Accessing Tuple.
+	- Tuple Methods.
+6. Set :
+	- Creating and Accessing Set.
+	- Set Methods.
+7. Dictionary :
+	- Creating and Accessing Dictionary.
+	- Dictionary Methods.
+	- Dictionary Comprehensions.
+8. Conditional Statements (if, elif, else)
+9. Loops (for, while)
+10. Break, Continue, and Pass statements
+11. Function :
+	- Defining and Calling Functions
+	- Arguments and Parameters
+	- Recursion
+12. Lambda, Filter, Map and Reduce
