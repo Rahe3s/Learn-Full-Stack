@@ -15,6 +15,7 @@ Python Memory Management :
 How Python code works.
 Python Operators.
 Data Types.
+Slicing.
 Type Conversion.
 List :
 	- Creating and Accessing List.
@@ -32,9 +33,11 @@ Dictionary :
 	- Dictionary Methods.
 	- Dictionary Comprehensions.
 Packing and Unpacking.
+Mutable and Immutable.
 Conditional Statements (if, elif, else).
 Match Case (Similar to Switch Case).
 Loops (for, while).
+Difference b/w for & while loop.
 Range.
 Break, Continue, and Pass statements.
 Function :
@@ -72,6 +75,7 @@ Magic method (Dunder method).
 Difference b/w 'is' & '=='. 
 Difference b/w '__new__' and '__init__'.
 @property.
+What is PIP.
 
 
 
