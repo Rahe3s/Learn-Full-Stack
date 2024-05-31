@@ -1,5 +1,5 @@
-Python Topics
-_____________
+  Python Topics
+_________________
 
 What is Python.
 Is python compiled or interpreted?.
@@ -80,7 +80,7 @@ What is PIP.
 
 
 Advance Topics
-______________
+--------------
 
 Multithreading.
 Multiprocessing.

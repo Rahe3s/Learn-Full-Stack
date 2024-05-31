@@ -1,0 +1,32 @@
+  Django Topics  
+_________________
+
+What is Django.
+Why Django.
+Features of Django.
+How to create a Project in Django.
+How to create an App in Django.
+What is virtual environment? Why is it used?.
+What MVT(Model, View, Template).
+How MVT Works.
+Session and Cookies.
+What is Queryset.
+WSGI & ASGI.
+What is makemigrations and migrate? What this commands do?.
+HTTP & HTTPS.
+HTTP Methods.
+CORS(Cross-Orgin Resource Sharing).
+Authentication & Authorization.
+Middleware.
+Request Response Cycle.
+What is CSRF token and CSRF attack.
+What is DTL(Django Template Language).
+Types of Browser Storages.
+What is Query Params.
+What is Path Params.
+What is Signals.
+What contain on Project & App folder.
+What is View engine.
+What are HTTP status codes.
+What is Hashing? How it works?.
+What is Secret_Key in Django settings.py.
