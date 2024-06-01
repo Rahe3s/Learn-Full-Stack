@@ -1,0 +1,14 @@
+  ORM Topics
+______________
+
+What is ORM.
+ORM Advantages & Disadvantages.
+values & values_list.
+Select Related.
+Prefetch Related.
+Annotation.
+Aggregation.
+Lookup.
+F Object.
+Q Object.
+get().
