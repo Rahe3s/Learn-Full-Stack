@@ -12,3 +12,15 @@ Lookup.
 F Object.
 Q Object.
 get().
+filter() & exclude().
+first() & last().
+Model relationships.
+only() & defer().
+What is Model Inheritance and types of Model Inheritance.
+What is meta class.
+contains & icontains.
+exact & iexact.
+Bulk Create.
+Difference b/w get() and first().
+Raw() & Cursor().
+distinct().
