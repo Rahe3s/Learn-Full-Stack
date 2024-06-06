@@ -30,3 +30,4 @@ What is View engine.
 What are HTTP status codes.
 What is Hashing? How it works?.
 What is Secret_Key in Django settings.py.
+What is manage.py.
