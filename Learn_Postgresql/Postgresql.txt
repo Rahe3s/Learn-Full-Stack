@@ -6,18 +6,33 @@ SQL v/s NOSQL.
 Group by.
 Having.
 Where.
+Having v/s Where.
+Drop v/s Truncate.
 Primary Key.
 Foreign Key.
-Drop v/s Truncate.
+Super Key.
 Composite Key.
+Candidate Key.
 Joins.
+Join v/s Union.
 Indexing.
 Transactions.
 Acid property.
 Constraint.
 Normalisation.
 Three Schema Architecture.
+Purpose of Three Schema Architecture.
 Relationships.
 Trigger.
 Scalar functions.
 Aggregate funcitons.
+Closure.
+DML, DCL, DDL, TCL.
+View Concept.
+Types of Views.
+User grant privilages.
+Backup and Restore.
+Rollback.
+Commit.
+Transitive Dependency.
+Stored Procedure.
