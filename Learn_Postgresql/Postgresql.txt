@@ -1,3 +1,23 @@
   Postgresql Topics
 _____________________
 
+What is Postgresql.
+SQL v/s NOSQL.
+Group by.
+Having.
+Where.
+Primary Key.
+Foreign Key.
+Drop v/s Truncate.
+Composite Key.
+Joins.
+Indexing.
+Transactions.
+Acid property.
+Constraint.
+Normalisation.
+Three Schema Architecture.
+Relationships.
+Trigger.
+Scalar functions.
+Aggregate funcitons.
