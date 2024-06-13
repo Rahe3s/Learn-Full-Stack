@@ -93,7 +93,6 @@ What is PIP.
 
 Advance Topics
 --------------
-
 Multithreading.
 Multiprocessing.
 Asyncio.
