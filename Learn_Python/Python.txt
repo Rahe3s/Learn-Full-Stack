@@ -33,6 +33,7 @@ Dictionary :
 	- Dictionary Methods.
 	- Dictionary Comprehensions.
 Packing and Unpacking.
+Pickling and Unpickling
 Mutable and Immutable.
 Conditional Statements (if, elif, else).
 Match Case (Similar to Switch Case).
@@ -56,7 +57,17 @@ Object-Oriented Programming (OOP) :
 	- Consturctor.
 	- Destructor.
 	- Inheritance.
+		- single Inheritance.
+		- Multilevel Inheritance.
+		- Multiple Inheritance.
+		- Hybrid Inheritance.
+		- Hierarchical Inheritance.
 	- Polymorphism.
+		- Method Overloading.
+		- Method Overriding.
+		- Operator Overloading.
+		- Constructor Overloading.
+		- Constructor Overriding
 	- Encapsulation.
 	- Abstraction.
 	- Super().
