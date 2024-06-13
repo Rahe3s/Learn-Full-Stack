@@ -45,7 +45,8 @@ Function :
 	- Defining and Calling Functions.
 	- Arguments (Positional, Keyword, Default).
 	- Recursion.
-Lambda, Filter, Map and Reduce.
+Lambda Function
+Filter, Map and Reduce.
 String Formatting.
 Regular Expression.
 Exception Handling.
