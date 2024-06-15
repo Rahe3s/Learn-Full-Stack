@@ -35,4 +35,4 @@ Backup and Restore.
 Rollback.
 Commit.
 Transitive Dependency.
-Stored Procedure.
+Stored Procedures and Functions.

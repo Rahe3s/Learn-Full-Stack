@@ -44,6 +44,7 @@ Break, Continue, and Pass statements.
 Function :
 	- Defining and Calling Functions.
 	- Arguments (Positional, Keyword, Default).
+	- Scope.
 	- Recursion.
 Lambda Function
 Filter, Map and Reduce.

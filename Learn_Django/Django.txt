@@ -9,6 +9,7 @@ How to create an App in Django.
 What is virtual environment? Why is it used?.
 What MVT(Model, View, Template).
 How MVT Works.
+URLs.
 Session and Cookies.
 What is Queryset.
 WSGI & ASGI.
