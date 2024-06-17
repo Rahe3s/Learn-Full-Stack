@@ -75,3 +75,25 @@ Object-Oriented Programming (OOP) :
 	- Super().
 	- Instance and class variables.
 	- Types of Methods (instance, class, static)
+Iterator.
+Generator.
+Generator Expression.
+Decorator.
+Shallow Copy and Deep Copy.
+Closure.
+GIL (Global Interpreter Lock).
+MRO (Method Resolution Order).
+Docstring.
+Magic method (Dunder method).
+Difference b/w 'is' & '=='. 
+Difference b/w '__new__' and '__init__'.
+@property.
+What is PIP.
+
+
+
+Advance Topics
+--------------
+Multithreading.
+Multiprocessing.
+Asyncio.
