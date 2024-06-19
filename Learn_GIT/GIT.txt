@@ -15,8 +15,6 @@ git push.
 git log.
 git checkout.
 git branch.
-    - how to create a branch.
-    - how to delete a branch.
 git merge.
 git diff.
 git stash.
