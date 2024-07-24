@@ -19,6 +19,7 @@ HTTP Methods.
 CORS(Cross-Orgin Resource Sharing).
 Authentication & Authorization.
 Middleware.
+How to create middleware.
 Request Response Cycle.
 What is CSRF token and CSRF attack.
 What is DTL(Django Template Language).
@@ -32,3 +33,6 @@ What are HTTP status codes.
 What is Hashing? How it works?.
 What is Secret_Key in Django settings.py.
 What is manage.py.
+What is meta class.
+What is Indexing.
+How to do Indexing in django.
