@@ -36,3 +36,6 @@ What is manage.py.
 What is meta class.
 What is Indexing.
 How to do Indexing in django.
+Abstract user and Abstract base user
+Mixins
+Model inheritance and its types.
