@@ -43,6 +43,7 @@ Range.
 Break, Continue, and Pass statements.
 Function :
 	- Defining and Calling Functions.
+	- Pure function.
 	- Arguments (Positional, Keyword, Default).
 	- Scope.
 	- Recursion.
@@ -80,6 +81,7 @@ Generator.
 Generator Expression.
 Decorator.
 Shallow Copy and Deep Copy.
+copy by value and copy by reference.
 Closure.
 GIL (Global Interpreter Lock).
 MRO (Method Resolution Order).
