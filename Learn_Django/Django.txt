@@ -39,3 +39,4 @@ How to do Indexing in django.
 Abstract user and Abstract base user
 Mixins
 Model inheritance and its types.
+reverse and reverse lazy
