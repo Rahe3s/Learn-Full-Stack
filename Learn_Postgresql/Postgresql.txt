@@ -16,6 +16,7 @@ Candidate Key.
 Joins.
 Join v/s Union.
 Indexing.
+clustered index
 Transactions.
 Acid property.
 Constraint.
